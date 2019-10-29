@@ -1,0 +1,9 @@
+{
+    "version": "0.1.0",
+    "name": "js-testing-stuff",
+    "author": "kaatalhama@gmail.com",
+    "devDependencies": {
+        "babel-preset-env": "^1.7.0",
+        "babel-cli": "^6.26.0"
+    }
+}
